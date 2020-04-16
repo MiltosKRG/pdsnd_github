@@ -38,7 +38,7 @@ def get_filters():
 
     while True:
         try:
-            month = str(input('You want to filter by a specific month or see data for all months?  '))
+            month = str(input('Choose the month you wish to filter by or type all for no filtering:  '))
             if month == 'january':
                 print('You chose to filter by {}'.format(month).title())
                 break
