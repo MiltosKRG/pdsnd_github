@@ -5,7 +5,7 @@
 Udacity GIT Project
 
 ### Description
-
+Making changes to bikeshare project for python to showcase my skills in GIT
 
 ### Files used
 chicago.csv
