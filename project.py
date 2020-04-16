@@ -68,7 +68,7 @@ def get_filters():
 
     while True:
         try:
-            day = str(input('You want to filter by day or see data for all days?  '))
+            day = str(input('Choose the day you wish to filter by or type all for no filtering:  '))
             if day == 'monday':
                 print('You chose to filter by {}'.format(day).title())
                 break
